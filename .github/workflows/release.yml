@@ -10,10 +10,10 @@ on:
   workflow_dispatch:
 
 env:
-  BIN_NAME: bfoot
-  PROJECT_NAME: bumblefoot
-  REPO_NAME: spectralops/rust-ci-release-template
-  BREW_TAP: jondot/homebrew-tap
+  BIN_NAME: minigrep
+  PROJECT_NAME: minigrep
+  REPO_NAME: Artin-GH/minigrep
+  BREW_TAP: Artin-GH/minigrep
 
 jobs:
   dist:
