@@ -1,5 +1,5 @@
 # My Mini Grep
-A better version of the minigrep project in the [Rust Book - Chapter 12](https://doc.rust-lang.org/book/ch12-00-an-io-project.html).
+A better version of the minigrep project in the [Rust Book - Chapter 12](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) and my first project in `Rust`.
 
 
 ## Updated sections
