@@ -9,9 +9,9 @@ A better version of the minigrep project in the [Rust Book - Chapter 12](https:/
 
 3. If the `file_path` argument isn't passed, it now reads from the `stdin` and beside:
     ```zsh
-    minigrep to poem.txt --ignore-case
+    minigrep query poem.txt --ignore-case
     ```
     Can be run this way as well:
     ```zsh
-    cat poem.txt | minigrep to --ignore-case
+    cat poem.txt | minigrep query --ignore-case
     ```
